@@ -1,0 +1,1 @@
+#### kubenode-coreos.yaml

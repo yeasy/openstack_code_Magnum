@@ -1,0 +1,1 @@
+#### kubecluster-coreos.yaml

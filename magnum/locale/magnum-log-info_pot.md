@@ -1,0 +1,1 @@
+### magnum-log-info.pot

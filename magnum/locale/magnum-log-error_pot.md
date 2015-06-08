@@ -1,0 +1,1 @@
+### magnum-log-error.pot

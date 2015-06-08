@@ -1,0 +1,1 @@
+#### kubeminion.yaml

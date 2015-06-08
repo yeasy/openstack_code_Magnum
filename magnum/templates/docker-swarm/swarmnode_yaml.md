@@ -1,0 +1,1 @@
+#### swarmnode.yaml
