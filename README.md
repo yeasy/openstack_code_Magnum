@@ -11,7 +11,10 @@ OpenStack Magnum 源码分析
 感谢所有的 [贡献者](https://github.com/yeasy/openstack_code_Magnum/graphs/contributors)。
 
 ## 更新历史:
-* V0.1: 2015-06-8
+* V0.2: 2015-06-09
+    * 完成 API 部分分析。
+	* 完成 doc、etc、tools 等部分的分析。
+* V0.1: 2015-06-08
 	* 完成基本结构。
 
 
