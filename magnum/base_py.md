@@ -1,6 +1,8 @@
 ## base.py
 定义了若干抽象基础元类。
 
+这里面大部分类目前都没有被使用，只有 BayBase 被 magnum.cloud 中的 NovaBayBase 使用了。
+
 ### Bay 相关
 * BayBase：基础抽象元类。
 * Bay：继承自 BayBase，声明了 destroy、stop 两个方法。
