@@ -1,5 +1,5 @@
 ### conductor.py
-提供一个 main 方法，可以命令行手动启动 conductor 服务（作为消息 RPC 服务）。
+提供一个 main 方法，可以命令行手动启动 conductor 服务（作为消息 RPC 服务），同时启动了 docker、k8s、bay、和 listener 四种 conductor 的 handler。
 ```python
 def main():
     logging.register_options(cfg.CONF)
